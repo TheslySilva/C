@@ -6,9 +6,9 @@ int main() {
 	int idade;
 	double salario;
 	char sexo;
-	char nome[10];
+	char nome[50];
 
-	strcpy(nome,"Thesly Silva");
+	strcpy(nome, "Thesly Silva");
 	idade = 21;
 	sexo = 'M';
 	salario = 400.50;
