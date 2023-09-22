@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <string.h>
 
+void limparLinha(){
+	
+	char c;
+	while((c= getchar()) != "\n" && c != EOF)
+}
+
 int main () {
 
 	char nome[50];
