@@ -9,12 +9,8 @@ int main () {
 	printf("Nome : ");
 	scanf("%s", nome);
 
-	printf("");
-
 	printf("idade : ");
 	scanf("%i", &idade);
-
-	printf("");
 
 	printf("Altura : ");
 	scanf("%lf", &altura);
