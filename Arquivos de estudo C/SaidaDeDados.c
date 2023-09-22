@@ -1,21 +1,37 @@
 #include <stdio.h>
 #include <string.h>
 
-int main() {
+int main () {
 
-	int idade;
-	double salario;
-	char sexo;
-	char nome[50];
+//Variaveis
+    char nome[50];
+    int idade;
+    double altura;
 
-	strcpy(nome, "Thesly Silva");
-	idade = 21;
-	sexo = 'M';
-	salario = 400.50;
+//Entrada padrao
 
-	printf("%s\n", nome);
-	printf("%i\n", idade);
-	printf("%c\n", sexo);
-	printf("%.2lf", salario);
+    printf ("idade : " );
+    scanf("%i", &idade);
 
+//Limpa a entrada anterior
+
+    getchar();
+
+//Entrada para strings que possuem espaco
+
+    printf("Nome : ");
+    fgets(nome,50,stdin);
+
+//Retira a quebra de linha da string
+
+    strtok(nome, "\n");
+
+//Saida
+
+    printf("\n");
+
+    printf("Nome : %s \n", nome);
+    printf("Idade : %d",idade);
+    
+    return 0;
 }
