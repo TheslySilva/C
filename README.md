@@ -28,10 +28,9 @@ Apesar de sua idade, C continua sendo uma das linguagens mais utilizadas (TIOBE 
 
 ### Algumas das principais características da linguagem C são:
 
-* linguagem procedural, modular e estruturada, com tipagem estática de dados;
-* geralmente é compilada para o código de máquina da plataforma alvo;
-* gerando código compacto, eficiente e sem necessidade de um subsistema runtime de execução sofisticado;
-* possui facilidades para acesso de baixo nível à memória, registradores e portas de E/S;
-* extremamente portável, pode executar em plataformas de microcontroladores a supercomputadores;
-* é muito utilizada para escrever software de sistema, como sistemas operacionais, compiladores, serviços de rede, interfaces gráficas,bancos de dados, editores de texto, jogos, etc;
-* a maior parte das funcionalidades da linguagem provém de vastas bibliotecas, como a biblioteca padrão C (LibC ou Standard C Library).
+* Linguagem procedural, modular e estruturada, com tipagem estática de dados;
+* Geralmente é compilada para o código de máquina da plataforma alvo gerando código compacto, eficiente e sem necessidade de um subsistema runtime de execução sofisticado;
+* Possui facilidades para acesso de baixo nível à memória, registradores e portas de E/S;
+* Extremamente portável, pode executar em plataformas de microcontroladores a supercomputadores;
+* É muito utilizada para escrever software de sistema, como sistemas operacionais, compiladores, serviços de rede, interfaces gráficas,bancos de dados, editores de texto, jogos, etc;
+* A maior parte das funcionalidades da linguagem provém de vastas bibliotecas, como a biblioteca padrão C (LibC ou Standard C Library).
