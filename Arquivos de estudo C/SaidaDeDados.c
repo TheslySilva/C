@@ -3,35 +3,35 @@
 
 int main () {
 
-//Variaveis
-    char nome[50];
-    int idade;
-    double altura;
+	//Variaveis
+	char nome[50];
+	int idade;
+	double altura;
 
-//Entrada padrao
+	//Entrada padrao
 
-    printf ("idade : " );
-    scanf("%i", &idade);
+	printf ("idade : ");
+	scanf("%i", &idade);
 
-//Limpa a entrada anterior
+	//Limpa a entrada anterior
 
-    getchar();
+	getchar();
 
-//Entrada para strings que possuem espaco
+	//Entrada para strings que possuem espaco
 
-    printf("Nome : ");
-    fgets(nome,50,stdin);
+	printf("Nome : ");
+	fgets(nome, 50, stdin);
 
-//Retira a quebra de linha da string
+	//Retira a quebra de linha da string
 
-    strtok(nome, "\n");
+	strtok(nome, "\n");
 
-//Saida
+	//Saida
 
-    printf("\n");
+	printf("\n");
 
-    printf("Nome : %s \n", nome);
-    printf("Idade : %d",idade);
-    
-    return 0;
+	printf("Nome : %s \n", nome);
+	printf("Idade : %d", idade);
+
+	return 0;
 }
