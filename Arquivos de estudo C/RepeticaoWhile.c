@@ -2,17 +2,24 @@
 
 int main() {
 
-	int x = 0;
-	int i;
+    int x = 0;
+    int i;
+    int soma;
 
-	printf("Digite um numero : ");
-	scanf("%i", &i);
+    printf("Digite um numero : ");
+    scanf("%i", &i);
 
-	while(i != x) {
+    soma =0;
 
-		printf("Digite outro numero : ");
-		scanf("%i", &i);
+    while(i != x) {
+    
+        soma= soma + i;
+        printf("Digite outro numero : ");
+        scanf("%i", &i);
 
-	}
-return 0;
+    }
+
+printf("%i",soma);
+
+    return 0;
 }
