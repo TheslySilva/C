@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main (){
+int main () {
 
 	char nome[50];
 	int idade;
@@ -18,6 +18,6 @@ int main (){
 
 	printf("Altura : ");
 	scanf("%lf", &altura);
-    
-    return 0;
+
+	return 0;
 }
