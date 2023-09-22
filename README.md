@@ -1,4 +1,4 @@
-<div style=" display: flex; align: center">
+<div style=" display: flex; align: center;">
 
  ## Um breve histórico
 	
