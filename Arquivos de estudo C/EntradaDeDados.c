@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <string.h>
 
-void limparLinha(){
-	
+void limparLinha() {
+
 	char c;
-	while((c= getchar()) != "\n" && c != EOF)
+	while((c = getchar()) != "\n" && c != EOF){}
+	
 }
 
 int main () {
@@ -14,13 +15,19 @@ int main () {
 	double altura;
 
 	printf("Nome : ");
-	scanf("%s", nome);
+	fgets(nome,50,stdin);
 
 	printf("idade : ");
 	scanf("%i", &idade);
 
 	printf("Altura : ");
 	scanf("%lf", &altura);
-
+    
+    printf("\n");
+    
+    printf("Nome : %s", nome);
+    printf("Idade : %d\n", idade);
+    printf("Altura : %.2lf\n", altura);
+    
 	return 0;
 }
