@@ -26,7 +26,7 @@ Apesar de sua idade, C continua sendo uma das linguagens mais utilizadas (TIOBE 
 
 <br />
 
-### Algumas das principais características da linguagem C são:
+### Principais características da linguagem:
 
 * Linguagem procedural, modular e estruturada, com tipagem estática de dados;
 * Geralmente é compilada para o código de máquina da plataforma alvo gerando código compacto, eficiente e sem necessidade de um subsistema runtime de execução sofisticado;
