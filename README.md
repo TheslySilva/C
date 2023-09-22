@@ -1,5 +1,5 @@
  # Um breve histórico
-	
+![C Lang](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAlgHkql7nG25lT94-RidDusHcc3WQfWvuA&usqp=CAU)	
 <br />
 
  A linguagem C foi criada por Dennis Ritchie em 1972 para reescrever de forma portável o sistema operacional UNIX, que antes era escrito em assembly. Sua estrutura e seu nome provêm de uma linguagem anterior B, que era uma simplificação da linguagem de programação BCPL, escrita em 1966.
