@@ -1,12 +1,16 @@
  # Um breve histórico
-![C Lang](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAlgHkql7nG25lT94-RidDusHcc3WQfWvuA&usqp=CAU)	
+![C Lang](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGc_sEa9Ffg4fg1H5csN3N-K0rlgzcTsmFdg&usqp=CAU)	
 <br />
 
  A linguagem C foi criada por Dennis Ritchie em 1972 para reescrever de forma portável o sistema operacional UNIX, que antes era escrito em assembly. Sua estrutura e seu nome provêm de uma linguagem anterior B, que era uma simplificação da linguagem de programação BCPL, escrita em 1966.
  
+ ![Dennis Ritchie](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2-fZ9Fp0O08115_Njw_zaqK8lBkyena2VVQ&usqp=CAU)
+ 
  <br />
  
  Em 1978 foi publicado o livro The C Programming Language por Brian Kernighan e Dennis Ritchie, consagrando a linguagem no padrão chamado K&R. Durante muitos anos esse livro foi considerado como a especificação da linguagem.
+ 
+ ![The C Programming Language](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/The_C_Programming_Language%2C_First_Edition_Cover.svg/1200px-The_C_Programming_Language%2C_First_Edition_Cover.svg.png)
  
 <br />
 
