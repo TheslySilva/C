@@ -7,7 +7,7 @@ int main () {
 	printf("Que horas sao? ");
 	scanf("%i", &dia);
 
-	if(dia >= 6 && dia <12) {
+	if(dia >= 6 && dia < 12) {
 
 		printf("Bom dia!\n");
 
@@ -20,6 +20,6 @@ int main () {
 	}else {
 		printf("Boa Madrugada!");
 	};
-	
+
 	return 0;
 }
