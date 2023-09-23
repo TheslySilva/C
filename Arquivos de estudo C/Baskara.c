@@ -7,8 +7,10 @@ int main(){
 	
 	printf("Coeficiente a : ");
 	scanf("%lf", &a);
+	
 	printf("Coeficiente b : ");
 	scanf("%lf",&b);
+	
 	printf("Coeficiente c : ");
 	scanf("%lf",&c);
 	
@@ -22,9 +24,11 @@ int main(){
     
 	x1= (double)(+(-b)+sqrt(delta))/(2*a);
 	x2= (double)(+(-b)-sqrt(delta))/(2*a);
+	
 	printf("\nRESULTADO :\n");
 	printf("\nX1 = %.4lf",x1);
 	printf("\nx2 = %.4lf",x2);
+	
     }
 	return 0;
 }
