@@ -9,10 +9,10 @@ int main() {
 
 	printf("Digite primeiro numero : ");
 	scanf("%d", &n1);
-	
+
 	printf("Digite segundo numero : ");
 	scanf("%d", &n2);
-	
+
 	printf("Digite terceiro numero : ");
 	scanf("%d", &n3);
 
