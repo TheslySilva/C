@@ -17,10 +17,11 @@ int main() {
 
 	printf("Nome : ");
 	fgets(nome1, 50, stdin);
+	strtok(nome1,"\n");
 
 	printf("Idade : ");
 	scanf("%lf", &idade1);
-
+	
 	getchar();
 
 	//Segunda Pessoa
@@ -29,6 +30,7 @@ int main() {
 
 	printf("Nome : ");
 	fgets(nome2, 50, stdin);
+	strtok(nome2,"\n");
 
 	printf("Idade : ");
 	scanf("%lf", &idade2);
