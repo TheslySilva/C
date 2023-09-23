@@ -29,7 +29,7 @@ int main() {
 		printf("\nMenor Numero = %d", n3);
 
 	}else {
-		printf ("%d", n1);
+		printf ("Igual = %d", n1);
 	}
 
 	return 0;
